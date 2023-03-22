@@ -1,0 +1,13 @@
+C:\Users\chitu\source\repos\UDPChatApp\bin\Debug\UDPChatApp.exe.config
+C:\Users\chitu\source\repos\UDPChatApp\bin\Debug\UDPChatApp.exe
+C:\Users\chitu\source\repos\UDPChatApp\bin\Debug\UDPChatApp.pdb
+C:\Users\chitu\source\repos\UDPChatApp\obj\Debug\UDPChatApp.csproj.AssemblyReference.cache
+C:\Users\chitu\source\repos\UDPChatApp\obj\Debug\UDPChatApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\chitu\source\repos\UDPChatApp\obj\Debug\UDPChatApp.Client.resources
+C:\Users\chitu\source\repos\UDPChatApp\obj\Debug\UDPChatApp.Form1.resources
+C:\Users\chitu\source\repos\UDPChatApp\obj\Debug\UDPChatApp.Properties.Resources.resources
+C:\Users\chitu\source\repos\UDPChatApp\obj\Debug\UDPChatApp.Server.resources
+C:\Users\chitu\source\repos\UDPChatApp\obj\Debug\UDPChatApp.csproj.GenerateResource.cache
+C:\Users\chitu\source\repos\UDPChatApp\obj\Debug\UDPChatApp.csproj.CoreCompileInputs.cache
+C:\Users\chitu\source\repos\UDPChatApp\obj\Debug\UDPChatApp.exe
+C:\Users\chitu\source\repos\UDPChatApp\obj\Debug\UDPChatApp.pdb
