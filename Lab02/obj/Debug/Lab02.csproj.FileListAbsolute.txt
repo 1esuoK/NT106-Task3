@@ -1,0 +1,17 @@
+C:\Users\chitu\source\repos\Lab02\bin\Debug\Lab02.exe.config
+C:\Users\chitu\source\repos\Lab02\bin\Debug\Lab02.exe
+C:\Users\chitu\source\repos\Lab02\bin\Debug\Lab02.pdb
+C:\Users\chitu\source\repos\Lab02\obj\Debug\Lab02.csproj.AssemblyReference.cache
+C:\Users\chitu\source\repos\Lab02\obj\Debug\Lab02.csproj.SuggestedBindingRedirects.cache
+C:\Users\chitu\source\repos\Lab02\obj\Debug\Lab02.Bai1.resources
+C:\Users\chitu\source\repos\Lab02\obj\Debug\Lab02.Properties.Resources.resources
+C:\Users\chitu\source\repos\Lab02\obj\Debug\Lab02.csproj.GenerateResource.cache
+C:\Users\chitu\source\repos\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\chitu\source\repos\Lab02\obj\Debug\Lab02.exe
+C:\Users\chitu\source\repos\Lab02\obj\Debug\Lab02.pdb
+C:\Users\chitu\source\repos\Lab02\obj\Debug\Lab02.Bai2.resources
+C:\Users\chitu\source\repos\Lab02\obj\Debug\Lab02.Bai4.resources
+C:\Users\chitu\source\repos\Lab02\obj\Debug\Lab02.Bai3.resources
+C:\Users\chitu\source\repos\Lab02\obj\Debug\Lab02.Bai6.resources
+C:\Users\chitu\source\repos\Lab02\obj\Debug\Lab02.Home.resources
+C:\Users\chitu\source\repos\Lab02\obj\Debug\Lab02.Bai5.resources
